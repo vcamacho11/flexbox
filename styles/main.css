@@ -9,7 +9,7 @@ html, body {
 nav a {
   text-decoration: none;
   color: #414141;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .hero {
