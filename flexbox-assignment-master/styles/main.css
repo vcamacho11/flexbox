@@ -9,7 +9,7 @@ html, body {
 nav a {
   text-decoration: none;
   color: #414141;
-  align-items: flex-start;
+  justify-content: center;
 }
 
 .hero {
