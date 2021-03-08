@@ -22,6 +22,7 @@ nav {
 }
 .hero-content {
   display: flex;
+  flex-direction: column;
 }
 .main-container {
   background: rgb(238, 238, 238);
