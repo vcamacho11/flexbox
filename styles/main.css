@@ -47,8 +47,6 @@ h1 {
 }
 
 .sidebar {
-  display: flex;
-  flex-basis: auto;
   background: white;
 }
 
