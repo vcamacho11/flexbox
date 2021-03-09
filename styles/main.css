@@ -8,7 +8,6 @@ html, body {
 
 nav a {
   display: inline-flex;
-  justify-content: center;
   justify-content: space-around;
   text-decoration: none;
   color: #414141;
