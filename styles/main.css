@@ -23,7 +23,7 @@ nav a {
   justify-content: center;
 }
 
-nav h1 {
+.hero h1 {
   display: flex;
   font-size: 4em;
 }
