@@ -1,5 +1,6 @@
 @media screen and (min-width: 1024px) {
   html, body {
+    display: flex;
   background: #d5d5d5;
   font-family: sans-serif;
   padding: 1em;
