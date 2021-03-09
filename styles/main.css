@@ -41,7 +41,7 @@ h1 {
 }
 
 .mixed-layout {
-  display: flex;
+  display: inline-flex;
   flex-basis: auto;
   background: white;
   padding: 2em;
