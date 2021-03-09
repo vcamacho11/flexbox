@@ -52,6 +52,10 @@ h1 {
   background: white;
 }
 
+.second {
+  display: inline-flex;
+}
+
 .second-a {
   background: tomato;
   color: white;
