@@ -21,6 +21,10 @@ nav a {
   justify-content: center;
 }
 
+h1 {
+  font-size: 4em;
+}
+
 .hero-content {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -29,6 +33,8 @@ nav a {
 }
 
 .main-container {
+  display: flex;
+  flex-grow: 1(all);
   background: #eeeeee;
   padding: 2em;
   margin: 1em 0;
