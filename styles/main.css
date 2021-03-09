@@ -9,7 +9,7 @@
 
 nav a {
   display: inline-flex;
-  flex: auto;
+  flex-flow: nowrap;
   justify-content: space-evenly;
   text-decoration: none;
   color: #414141;
