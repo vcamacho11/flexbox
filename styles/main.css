@@ -39,7 +39,8 @@ nav a {
 
 .main-container {
   display: flex;
-  flex-shrink: 1;
+  flex-basis: 0;
+  flex-grow: 1;
   background: #eeeeee;
   padding: 2em;
   margin: 1em 0;
