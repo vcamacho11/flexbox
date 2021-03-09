@@ -7,9 +7,11 @@
   height: 100%;
 }
 
-nav a {
+.nav {
   display: inline-flex;
   justify-content: space-evenly;
+}
+nav a {
   text-decoration: none;
   color: #414141;
 }
