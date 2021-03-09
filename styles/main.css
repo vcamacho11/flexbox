@@ -45,7 +45,7 @@ nav a {
 }
 
 .mixed-layout {
-  display: inline-flex;
+  display: flex;
   flex-basis: auto;
   background: white;
   padding: 2em;
