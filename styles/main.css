@@ -10,7 +10,7 @@
 
 nav a {
   display: inline-flex;
-  justify-content: space-between;
+  justify-content: space-around;
   text-decoration: none;
   color: #414141;
 }
