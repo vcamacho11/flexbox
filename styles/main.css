@@ -39,7 +39,6 @@ nav a {
 
 .main-container {
   display: flex;
-  flex-basis: auto;
   background: #eeeeee;
   padding: 2em;
   margin: 1em 0;
