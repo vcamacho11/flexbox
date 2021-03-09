@@ -54,6 +54,7 @@ h1 {
 
 .second {
   display: inline-flex;
+  flex-basis: auto;
 }
 
 .second-a {
