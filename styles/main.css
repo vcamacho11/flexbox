@@ -59,7 +59,7 @@ nav a {
 .second {
   display: inline-flex;
   flex-basis: auto;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .second-a {
