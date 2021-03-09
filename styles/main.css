@@ -6,7 +6,7 @@ html, body {
   height: 100%;
 }
 
-#nav {
+nav {
   justify-content: space-around;
   justify-content: center;
   a {
