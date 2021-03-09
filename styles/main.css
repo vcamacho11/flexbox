@@ -59,7 +59,7 @@ nav a {
 
 .second {
   display: flex;
-  flex: auto;
+  flex: 1;
   flex-direction: row;
 }
 
