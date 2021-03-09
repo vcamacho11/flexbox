@@ -35,6 +35,7 @@ h1 {
 .main-container {
   display: flex;
   flex-basis: auto;
+  flex-wrap: wrap;
   background: #eeeeee;
   padding: 2em;
   margin: 1em 0;
