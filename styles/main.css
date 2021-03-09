@@ -34,7 +34,7 @@ h1 {
 
 .main-container {
   display: flex;
-  flex-grow: all;
+  flex-grow: 0;
   background: #eeeeee;
   padding: 2em;
   margin: 1em 0;
@@ -47,7 +47,6 @@ h1 {
 }
 
 .sidebar {
-  flex-grow: all;
   background: white;
 }
 
