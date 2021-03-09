@@ -34,7 +34,7 @@ h1 {
 
 .main-container {
   display: flex;
-  flex-grow: 0;
+  flex-basis: 0%;
   background: #eeeeee;
   padding: 2em;
   margin: 1em 0;
