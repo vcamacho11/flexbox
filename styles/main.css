@@ -6,11 +6,11 @@ html, body {
   height: 100%;
 }
 
-#nav {
+nav {
   justify-content: space-around;
   justify-content: center;
 }
-#nav a {
+nav a {
   text-decoration: none;
   color: #414141;
 }
