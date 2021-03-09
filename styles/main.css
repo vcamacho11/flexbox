@@ -32,7 +32,7 @@ h1 {
   flex-direction: column;
 }
 
-.main-container, .sidebar {
+.main-container {
   display: flex;
   flex-basis: auto;
   background: #eeeeee;
@@ -47,6 +47,8 @@ h1 {
 }
 
 .sidebar {
+  display: flex;
+  flex-basis: auto;
   background: white;
 }
 
